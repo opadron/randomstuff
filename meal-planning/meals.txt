@@ -1,0 +1,160 @@
+### GUIDED #1 - Emphasize Smoked Porkchops and Whiting Fish
+
+( 2)   2.0 apple Apple - Large            K  230.0 C   60.0 G    0.0 P    0.0 S    4.0 F   10.0
+( 4)   2.0 cup Chicken Soup               K  360.0 C   10.0 G    4.0 P   20.0 S  984.0 F    2.0
+( 4) 201.6 g French Fries                 K  288.0 C   48.0 G    9.6 P    4.8 S    0.0 F    4.8
+( 1)   0.5 cup Granola                    K  210.0 C   33.5 G    8.0 P    6.5 S    4.0 F    4.0
+( 5)   2.5 cup Grilled Broccoli           K   77.5 C   15.0 G    0.0 P    5.0 S   75.0 F    5.0
+( 2)   2.0 egg Fried Egg                  K  392.0 C    0.0 G   28.0 P   26.0 S  414.0 F    0.0
+( 2)   1.0 cup Lobster Bisque             K  270.0 C   19.0 G   16.0 P   12.0 S  800.0 F    1.0
+( 5)   5.0 oz Smoked Porkchop             K  175.0 C    2.5 G    6.2 P   25.0 S  650.0 F    0.0
+( 7)  38.5 oz V8 Vegetable Juice - Low So K  210.0 C   49.0 G    0.0 P    7.0 S  665.0 F    7.0
+( 5) 250.0 g Whiting Fish                 K  220.0 C    0.0 G    0.0 P   50.0 S    0.0 F    0.0
+
+TOTAL                                     K 2432.5 C  237.0 G   71.8 P  156.3 S 3596.0 F   33.8
+TARGETS                                   K 2240.0 C  224.0 G   75.0 P  168.0 S 3000.0 F   35.0
+
+FITNESS 0.2407936131069455
+
+### GUIDED #2 - Emphasize Flank Steak and Meatballs
+###             (computer decided not to use the meatballs)
+( 1)   1.0 apple Apple - Large            K  115.0 C   30.0 G    0.0 P    0.0 S    2.0 F    5.0
+( 1)   1.0 cup Chicken Caesar Salad       K  230.0 C    8.0 G   16.0 P   16.0 S  980.0 F    1.0
+( 3)   1.5 cup Chicken Soup               K  270.0 C    7.5 G    3.0 P   15.0 S  738.0 F    1.5
+( 7)   3.5 cup Cuban Pinto Bean Soup      K  539.0 C   94.5 G    0.0 P   31.5 S   24.5 F   21.0
+( 8)   8.0 oz Flank Steak                 K  360.0 C    0.0 G   18.0 P   48.0 S  120.0 F    0.0
+( 1)   1.0 cup Grapes - Green             K   62.0 C   15.0 G    0.0 P    0.0 S    2.0 F    0.0
+( 8)   4.0 cup Grilled Broccoli           K  124.0 C   24.0 G    0.0 P    8.0 S  120.0 F    8.0
+( 1)   1.0 banana Large Banana            K  121.0 C   31.0 G    0.0 P    1.0 S    1.0 F    3.0
+( 3)   3.0 egg Fried Egg                  K  588.0 C    0.0 G   42.0 P   39.0 S  621.0 F    0.0
+( 8)   8.0 oz Ministroni Soup             K   60.0 C   12.0 G    0.0 P    2.7 S  990.3 F    1.3
+
+TOTAL                                     K 2469.0 C  222.0 G   79.0 P  161.2 S 3598.8 F   40.8
+TARGETS                                   K 2240.0 C  224.0 G   75.0 P  168.0 S 3000.0 F   35.0
+
+FITNESS 3.112043811176019
+
+### GUIDED #3 - Emphasize Meatballs and Tuna
+( 2)   1.0 cup Chicken Soup               K  180.0 C    5.0 G    2.0 P   10.0 S  492.0 F    1.0
+( 9)   9.0 oz Coffee with Cream and Sugar K   63.0 C    0.0 G    3.1 P    0.0 S    0.0 F    0.0
+( 8)   4.0 cup Cuban Pinto Bean Soup      K  616.0 C  108.0 G    0.0 P   36.0 S   28.0 F   24.0
+( 1)   0.5 cup Granola                    K  210.0 C   33.5 G    8.0 P    6.5 S    4.0 F    4.0
+(10)   5.0 cup Grilled Broccoli           K  155.0 C   30.0 G    0.0 P   10.0 S  150.0 F   10.0
+( 1)   1.0 egg Fried Egg                  K  196.0 C    0.0 G   14.0 P   13.0 S  207.0 F    0.0
+( 1)   0.5 cup Meatballs with Sauce       K  270.0 C    0.0 G   15.0 P   16.0 S   38.0 F    0.0
+( 8)   8.0 oz Ministroni Soup             K   60.0 C   12.0 G    0.0 P    2.7 S  990.3 F    1.3
+( 6)   1.5 cup Tuna Salad With Mayonnaise K  574.5 C   21.0 G   33.0 P   43.5 S 1210.5 F    0.0
+( 1)   1.0 cup Yogourt                    K  150.0 C   26.0 G    3.0 P    5.0 S   80.0 F    0.0
+
+TOTAL                                     K 2474.5 C  235.5 G   78.2 P  142.7 S 3199.8 F   40.3
+TARGETS                                   K 2240.0 C  224.0 G   75.0 P  168.0 S 3000.0 F   35.0
+
+FITNESS 4.69585240216562
+
+### GUIDED #4 - Low Variety - Easy to prepare
+( 9)   4.5 cup Cuban Pinto Bean Soup      K  693.0 C  121.5 G    0.0 P   40.5 S   31.5 F   27.0
+( 9)   4.5 cup Grilled Broccoli           K  139.5 C   27.0 G    0.0 P    9.0 S  135.0 F    9.0
+( 6)   3.0 cup Lobster Bisque             K  810.0 C   57.0 G   48.0 P   36.0 S 2400.0 F    3.0
+( 5)   1.2 cup Tuna Salad With Mayonnaise K  478.8 C   17.5 G   27.5 P   36.2 S 1008.8 F    0.0
+( 6) 300.0 g Whiting Fish                 K  264.0 C    0.0 G    0.0 P   60.0 S    0.0 F    0.0
+
+TOTAL                                     K 2385.2 C  223.0 G   75.5 P  181.8 S 3575.2 F   39.0
+TARGETS                                   K 2240.0 C  224.0 G   75.0 P  168.0 S 3000.0 F   35.0
+
+FITNESS 0.03497895265387289
+
+### GUIDED #5 - High Variety - Ideal nutrition, but more work to prepare
+( 1)   1.0 apple Apple - Large            K  115.0 C   30.0 G    0.0 P    0.0 S    2.0 F    5.0
+( 9)   9.0 oz Coffee with Cream and Sugar K   63.0 C    0.0 G    3.1 P    0.0 S    0.0 F    0.0
+( 2)   1.0 cup Cuban Pinto Bean Soup      K  154.0 C   27.0 G    0.0 P    9.0 S    7.0 F    6.0
+( 2) 101.3 g Cuban Pork Roast (Lechon Asa K  320.6 C    2.0 G   26.7 P   15.3 S  214.6 F    0.0
+( 5)   5.0 oz Flank Steak                 K  225.0 C    0.0 G   11.2 P   30.0 S   75.0 F    0.0
+( 2) 100.8 g French Fries                 K  144.0 C   24.0 G    4.8 P    2.4 S    0.0 F    2.4
+( 1)   0.5 cup Granola                    K  210.0 C   33.5 G    8.0 P    6.5 S    4.0 F    4.0
+( 5)   2.5 cup Grilled Broccoli           K   77.5 C   15.0 G    0.0 P    5.0 S   75.0 F    5.0
+( 1)   1.0 banana Large Banana            K  121.0 C   31.0 G    0.0 P    1.0 S    1.0 F    3.0
+( 1)   1.0 egg Fried Egg                  K  196.0 C    0.0 G   14.0 P   13.0 S  207.0 F    0.0
+( 2) 100.0 g Mashed Potatoes              K  122.0 C   12.0 G    2.0 P    2.0 S   30.0 F    1.0
+(10)  10.0 oz Ministroni Soup             K   75.0 C   15.0 G    0.0 P    3.3 S 1237.8 F    1.7
+( 6)   6.0 oz Smoked Porkchop             K  210.0 C    3.0 G    7.5 P   30.0 S  780.0 F    0.0
+( 7)  38.5 oz V8 Vegetable Juice - Low So K  210.0 C   49.0 G    0.0 P    7.0 S  665.0 F    7.0
+( 5) 250.0 g Whiting Fish                 K  220.0 C    0.0 G    0.0 P   50.0 S    0.0 F    0.0
+
+TOTAL                                     K 2463.1 C  241.5 G   77.4 P  174.6 S 3298.5 F   35.1
+TARGETS                                   K 2240.0 C  224.0 G   75.0 P  168.0 S 3000.0 F   35.0
+
+FITNESS 0.09003083294857049
+
+
+### COMMENTARY - Emphasizing Pork Roast
+###              Pork Roast turns out to actually be *BAD* for protein.
+###              This is because pork roast is too fatty and too salty,
+###              forcing the computer to complete the plan with foods that are
+###              low in fat and low in salt, and such foods are poor sources of
+###              protein.
+( 2)   2.0 apple Apple - Large            K  230.0 C   60.0 G    0.0 P    0.0 S    4.0 F   10.0
+( 5)   2.5 cup Chicken Soup               K  450.0 C   12.5 G    5.0 P   25.0 S 1230.0 F    2.5
+( 9)   9.0 oz Coffee with Cream and Sugar K   63.0 C    0.0 G    3.1 P    0.0 S    0.0 F    0.0
+( 4)   2.0 cup Cuban Pinto Bean Soup      K  308.0 C   54.0 G    0.0 P   18.0 S   14.0 F   12.0
+( 3) 152.0 g Cuban Pork Roast (Lechon Asa K  481.0 C    3.0 G   40.0 P   23.0 S  322.0 F    0.0
+( 4)   2.0 cup French Onion Soup (Progres K  100.0 C   18.0 G    2.0 P    4.0 S 1380.0 F    2.0
+( 1)   0.5 cup Granola                    K  210.0 C   33.5 G    8.0 P    6.5 S    4.0 F    4.0
+( 9)   4.5 cup Grilled Broccoli           K  139.5 C   27.0 G    0.0 P    9.0 S  135.0 F    9.0
+( 1)   1.0 egg Fried Egg                  K  196.0 C    0.0 G   14.0 P   13.0 S  207.0 F    0.0
+( 1)   1.0 cup Yogourt                    K  150.0 C   26.0 G    3.0 P    5.0 S   80.0 F    0.0
+
+TOTAL                                     K 2327.5 C  234.0 G   75.1 P  103.5 S 3376.0 F   39.5
+TARGETS                                   K 2240.0 C  224.0 G   75.0 P  168.0 S 3000.0 F   35.0
+
+FITNESS 7.172635231926825
+
+### EASY 1 - Subway
+( 1)   1.0 wrap Buffalo Chicken Wrap (Sub K  381.0 C   43.0 G   13.0 P   22.0 S 1600.0 F    3.0
+( 1)   1.0 apple Apple - Large            K  115.0 C   30.0 G    0.0 P    0.0 S    2.0 F    5.0
+( 4)   2.0 cup Chicken Soup               K  360.0 C   10.0 G    4.0 P   20.0 S  984.0 F    2.0
+( 6)   3.0 cup Cuban Pinto Bean Soup      K  462.0 C   81.0 G    0.0 P   27.0 S   21.0 F   18.0
+( 8)   8.0 oz Flank Steak                 K  360.0 C    0.0 G   18.0 P   48.0 S  120.0 F    0.0
+( 1)   1.0 cup Grapes - Green             K   62.0 C   15.0 G    0.0 P    0.0 S    2.0 F    0.0
+( 1)   0.5 cup Granola                    K  210.0 C   33.5 G    8.0 P    6.5 S    4.0 F    4.0
+( 4)   2.0 cup Grilled Broccoli           K   62.0 C   12.0 G    0.0 P    4.0 S   60.0 F    4.0
+( 1)   1.0 egg Fried Egg                  K  196.0 C    0.0 G   14.0 P   13.0 S  207.0 F    0.0
+( 3)   0.8 cup Tuna Salad With Mayonnaise K  287.2 C   10.5 G   16.5 P   21.8 S  605.2 F    0.0
+
+TOTAL                                     K 2495.2 C  235.0 G   73.5 P  162.2 S 3605.2 F   36.0
+TARGETS                                   K 2240.0 C  224.0 G   75.0 P  168.0 S 3000.0 F   35.0
+
+FITNESS 3.33534281803672
+
+### EASY 2 - Costco
+( 1)   1.0 link Hot Dog Link - No Bun (Co K  370.0 C    5.0 G   31.0 P   18.0 S 1070.0 F    0.0
+( 1)   1.0 sausage Italian Sausage - No B K  515.0 C    0.0 G   42.0 P   35.0 S 2230.0 F    0.0
+( 1)   1.0 apple Apple - Large            K  115.0 C   30.0 G    0.0 P    0.0 S    2.0 F    5.0
+(10) 100.0 g Baked Red Potatoes           K   89.0 C   20.0 G    0.0 P    2.0 S    8.0 F    1.0
+( 9)   4.5 cup Cuban Pinto Bean Soup      K  693.0 C  121.5 G    0.0 P   40.5 S   31.5 F   27.0
+( 7)   7.0 oz Flank Steak                 K  315.0 C    0.0 G   15.8 P   42.0 S  105.0 F    0.0
+( 1)   1.0 cup Grapes - Green             K   62.0 C   15.0 G    0.0 P    0.0 S    2.0 F    0.0
+( 7)   3.5 cup Grilled Broccoli           K  108.5 C   21.0 G    0.0 P    7.0 S  105.0 F    7.0
+( 1)   1.0 banana Large Banana            K  121.0 C   31.0 G    0.0 P    1.0 S    1.0 F    3.0
+(10)  10.0 g Virginia Ham                 K    8.0 C    0.2 G    0.0 P    1.6 S  117.0 F    0.1
+
+TOTAL                                     K 2396.5 C  243.7 G   88.8 P  147.1 S 3671.5 F   43.1
+TARGETS                                   K 2240.0 C  224.0 G   75.0 P  168.0 S 3000.0 F   35.0
+
+FITNESS 1.1634326986174648
+
+### EASY 3 - Burger King
+( 1)   1.0 sandwich Burger King Double Wh K 1105.0 C   52.0 G   73.0 P   46.0 S 1940.0 F    2.0
+( 1)   1.0 sandwich Burger King Fully Loa K  610.0 C   31.0 G   40.0 P   28.0 S 1680.0 F    1.0
+( 1)   1.0 apple Apple - Large            K  115.0 C   30.0 G    0.0 P    0.0 S    2.0 F    5.0
+( 6)   6.0 oz Coffee with Cream and Sugar K   42.0 C    0.0 G    2.1 P    0.0 S    0.0 F    0.0
+( 4)   2.0 cup Cuban Pinto Bean Soup      K  308.0 C   54.0 G    0.0 P   18.0 S   14.0 F   12.0
+( 4)   4.0 oz Flank Steak                 K  180.0 C    0.0 G    9.0 P   24.0 S   60.0 F    0.0
+( 1)   1.0 cup Grapes - Green             K   62.0 C   15.0 G    0.0 P    0.0 S    2.0 F    0.0
+( 4)   2.0 cup Grilled Broccoli           K   62.0 C   12.0 G    0.0 P    4.0 S   60.0 F    4.0
+( 1)   1.0 banana Large Banana            K  121.0 C   31.0 G    0.0 P    1.0 S    1.0 F    3.0
+( 1)   1.0 cup Yogourt                    K  150.0 C   26.0 G    3.0 P    5.0 S   80.0 F    0.0
+
+TOTAL                                     K 2755.0 C  251.0 G  127.1 P  126.0 S 3839.0 F   27.0
+TARGETS                                   K 2240.0 C  224.0 G   75.0 P  168.0 S 3000.0 F   35.0
+
+FITNESS 4.588644281493216

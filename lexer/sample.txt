@@ -1,0 +1,94 @@
+
+import re
+
+parser math_expression:
+    ord_0 = ord('0')
+    ord_9 = ord('9')
+
+    token space:
+        return (space() if stream.next() == ' ' else None)
+
+    token tab:
+        return (tab() if stream.next() == '\t' else None)
+
+    token newline:
+        result = None
+        c = stream.next()
+        if c == '\n':
+            c = stream.next()
+            has_carriage_return = (c == '\r')
+
+            if not      has_carriage_return:
+                stream.put(c)
+
+            result = newline(carriage_return=has_carriage_return)
+
+        return result
+
+    token number_fragment:
+        predicate = lambda ord_c: ord_0 <= ord_c and ord_c <= ord_9
+        text = stream.next_while(lambda c: predicate(ord(c)))
+        return (
+            number_fragment(text=text) if text else None
+        )
+
+    token signed_number_fragment:
+        c = stream.next()
+        has_minus = (c == '-')
+        has_plus = (c == '+')
+        if not has_minus and not has_plus:
+            stream.put(c)
+
+        frag = number_fragment(stream)
+        return (
+            signed_number_fragment(
+                text=frag.text,
+                sign=('+' if has_plus else '-' if has_minus else None)
+            )
+
+            if frag else None
+        )
+
+    token integer:
+        frag = number_fragment(stream)
+        return (
+            integer(text=frag.text)
+            if frag else None
+        )
+
+    token float:
+        frag0 = number_fragment(stream)
+
+        frag1 = None
+        c = stream.next()
+        has_dot = (c == '.')
+        if not has_dot:
+            stream.put(c)
+        else:
+            frag1 = number_fragment(stream)
+
+        frag2 = None
+        c = stream.next()
+        has_e = (c == 'e')
+        has_E = (c == 'E')
+        if not has_e and not has_E:
+            stream.put(c)
+        else:
+            frag2 = signed_number_fragment(stream)
+
+        if not (frag0 or frag1):
+            return None
+
+        return (
+            float(
+                whole_text=(frag0.text if frag0 else None),
+                fraction_text=(('.' + frag1.text) if frag1 else None),
+                exponent_text=(
+                    (('e' if has_e else 'E') + frag2.text)
+                    if frag2 else None
+                ),
+                exponent_sign=(frag2.sign if frag2 else None)
+            )
+            if frag0 or frag1 else None
+        )
+

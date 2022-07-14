@@ -1,0 +1,463 @@
+{
+  "apple_large": {
+    "desc": "Apple - Large",
+    "unit": "apple",
+    "k": 115, "c": 30, "s": 2, "f": 5
+  },
+
+  "baked_red_potatoes": {
+    "desc": "Baked Red Potatoes",
+    "inc": 0.1,
+    "count": [10, 100],
+    "unit": "g",
+    "k": 89, "c": 20, "p": 2, "s": 8, "f": 1
+  },
+
+  "bacon_egg_cheese_flatbread_subway": {
+    "desc": "Bacon, Egg, and Cheese Flatbread (Subway)",
+    "count": 6,
+    "unit": "inches",
+    "k": 410, "c": 45, "g": 16, "p": 23, "s": 1050, "f": 5
+  },
+
+  "bk_double_bacon_whopper": {
+    "desc": "Burger King Double Whopper w/Bacon",
+    "unit": "sandwich",
+    "k": 1105, "c": 52, "g": 73, "p": 46, "s": 1940, "f": 2
+  },
+
+  "bk_fully_loaded_crossainwich": {
+    "desc": "Burger King Fully Loaded Crossaintwich",
+    "unit": "sandwich",
+    "k": 610, "c": 31, "g": 40, "p": 28, "s": 1680, "f": 1
+  },
+
+  "black_pepper": {
+    "desc": "Black Pepper",
+    "inc": 0.5,
+    "count": 2.0,
+    "unit": "tsp",
+    "k": 12, "c": 3, "s": 1, "f": 1
+  },
+
+  "broccoli_and_cheddar_soup": {
+    "desc": "Broccoli and Cheddar Soup",
+    "inc": 0.5,
+    "count": [2.0, 1],
+    "unit": "cup",
+    "k": 279, "c": 11, "g": 20, "p": 11, "s": 739, "f": 1
+  },
+
+  "buffalo_chicken_wrap_subway": {
+    "desc": "Buffalo Chicken Wrap (Subway)",
+    "unit": "wrap",
+    "k": 381, "c": 43, "g": 13, "p": 22, "s": 1600, "f": 3
+  },
+
+  "butter": {
+    "desc": "Butter",
+    "count": 1,
+    "unit": "tsp",
+    "k": 33, "g": 3, "s": 31
+  },
+
+  "canola_oil": {
+    "desc": "Canola Oil",
+    "inc": 0.5,
+    "count": 0.2,
+    "unit": "tbsp",
+    "k": 130, "g": 14
+  },
+
+  "cheddar_cheese_sharp": {
+    "desc": "Cheddar Cheese - Sharp",
+    "inc": 0.1,
+    "count": 10,
+    "unit": "oz",
+    "k": 1100, "c": 5, "g": 90, "p": 70, "s": 1800
+  },
+
+  "chicken_caesar_salad": {
+    "desc": "Chicken Caesar Salad",
+    "unit": "cup",
+    "k": 230, "c": 8, "g": 16, "p": 16, "s": 980, "f": 1
+  },
+
+  "chicken_soup": {
+    "desc": "Chicken Soup",
+    "inc": 0.5,
+    "count": [2.0],
+    "unit": "cup",
+    "k": 180, "c": 5, "g": 2, "p": 10, "s": 492, "f": 1
+  },
+
+  "clam_chowder_progresso": {
+    "desc": "Clam Chowder (Progresso)",
+    "inc": 0.25,
+    "count": [2.0, 2],
+    "unit": "cup",
+    "k": 360, "c": 40, "g": 16, "p": 12, "s": 1780, "f": 2
+  },
+
+  "coffee_with_cream_and_sugar": {
+    "desc": "Coffee with Cream and Sugar",
+    "inc": 0.05,
+    "count": [6.0, 20],
+    "unit": "oz",
+    "k": 140, "g": 7
+  },
+
+  "cookie_subway": {
+    "desc": "Cookies (Subway)",
+    "unit": "cookie",
+    "k": 210, "c": 30, "g": 10, "p": 2, "s": 130, "f": 1
+  },
+
+  "cuban_black_bean_soup": {
+    "desc": "Cuban Black Bean Soup",
+    "inc": 0.083333,
+    "count": [12.0, 12.0],
+    "unit": "oz",
+    "k": 330, "c": 45, "g": 9, "p": 18, "s": 770, "f": 16
+  },
+
+  "cuban_black_beans_and_rice": {
+    "desc": "Cuban Black Beans and Rice",
+    "inc": 0.5,
+    "count": 2,
+    "unit": "cup",
+    "k": 368, "c": 71, "g": 5, "p": 14, "s": 110, "f": 11
+  },
+
+  "cuban_pinto_bean_soup": {
+    "desc": "Cuban Pinto Bean Soup",
+    "inc": 0.5,
+    "count": [2.0],
+    "unit": "cup",
+    "k": 154, "c": 27, "p": 9, "s": 7, "f": 6
+  },
+
+  "cuban_pork_roast": {
+    "desc": "Cuban Pork Roast (Lechon Asado)",
+    "inc": 0.3333,
+    "count": [2.0, 152],
+    "unit": "g",
+    "k": 481, "c": 3, "g": 40, "p": 23, "s": 322
+  },
+
+  "cuban_red_bean_soup": {
+    "desc": "Cuban Red Bean Soup",
+    "count": [2.0, 4],
+    "unit": "oz",
+    "k": 179, "c": 27, "g": 4, "p": 3, "s": 289, "f": 1
+  },
+
+  "flank_steak": {
+    "desc": "Flank Steak",
+    "inc": 0.25,
+    "count": [4.0, 4],
+    "unit": "oz",
+    "k": 180, "g": 9, "p": 24, "s": 60
+  },
+
+  "fit_crunch_bar": {
+    "desc": "Fit Crunch Bar",
+    "unit": "bar",
+    "k": 380, "c": 27, "g": 16, "p": 30, "s": 490, "f": 2
+  },
+
+  "french_fries": {
+    "desc": "French Fries",
+    "inc": 0.6,
+    "count": [2.0, 84],
+    "unit": "g",
+    "k": 120, "c": 20, "g": 4, "p": 2, "f": 2
+  },
+
+  "french_onion_soup_progresso": {
+    "desc": "French Onion Soup (Progresso)",
+    "inc": 0.25,
+    "count": [2.0, 2],
+    "unit": "cup",
+    "k": 100, "c": 18, "g": 2, "p": 4, "s": 1380, "f": 2
+  },
+
+  "frigo_feta_cheese": {
+    "desc": "Feta Cheese (Frigo)",
+    "inc": 0.1,
+    "count": 10.0,
+    "unit": "g",
+    "k": 57, "c": 1, "g": 5, "p": 4, "s": 230
+  },
+
+  "grapes_green": {
+    "desc": "Grapes - Green",
+    "unit": "cup",
+    "k": 62, "c": 15, "s": 2
+  },
+
+  "granola": {
+    "desc": "Granola",
+    "inc": 0.5,
+    "unit": "cup",
+    "k": 420, "c": 67, "g": 16, "p": 13, "s": 8, "f": 8
+  },
+
+  "grilled_broccoli": {
+    "desc": "Grilled Broccoli",
+    "inc": 0.5,
+    "unit": "cup",
+    "k": 31, "c": 6, "p": 2, "s": 30, "f": 2
+  },
+
+  "grilled_chicken_breast_no_skin": {
+    "desc": "Grilled Chicken Breast - No Skin",
+    "count": [6.0],
+    "unit": "oz",
+    "k": 150, "g": 6, "p": 43, "s": 120
+  },
+
+  "hot_dogs_costco": {
+    "desc": "Hot Dog Link - No Bun (Costco)",
+    "unit": "link",
+    "k": 370, "c": 5, "g": 31, "p": 18, "s": 1070
+  },
+
+  "ice_cream_chocolate": {
+    "desc": "Ice Cream - Chocolate",
+    "count": 0.5,
+    "unit": "cup",
+    "k": 347, "c": 42, "g": 17, "p": 4, "s": 198
+  },
+
+  "ice_cream_strawberry": {
+    "desc": "Ice Cream - Strawberry",
+    "inc": 0.5,
+    "unit": "cup",
+    "k": 414, "c": 27, "g": 31, "p": 5, "s": 78
+  },
+
+  "ice_cream_vanilla": {
+    "desc": "Ice Cream - Vanilla",
+    "count": 0.5,
+    "unit": "cup",
+    "k": 347, "c": 42, "g": 17, "p": 4, "s": 148
+  },
+
+  "italian_bmt_sandwich_subway": {
+    "desc": "Italian BMT Sandwich (Subway)",
+    "count": 6,
+    "unit": "inches",
+    "k": 410, "c": 46, "g": 16, "p": 20, "s": 1260, "f": 5
+  },
+
+  "italian_sausage_costco": {
+    "desc": "Italian Sausage - No Bun (Costco)",
+    "unit": "sausage",
+    "k": 515, "g": 42, "p": 35, "s": 2230
+  },
+
+  "large_banana": {
+    "desc": "Large Banana",
+    "unit": "banana",
+    "k": 121, "c": 31, "p": 1, "s": 1, "f": 3
+  },
+
+  "large_fried_egg": {
+    "desc": "Fried Egg",
+    "unit": "egg",
+    "k": 196, "g": 14, "p": 13, "s": 207
+  },
+
+  "lime_juice_whole_raw_medium": {
+    "desc": "Lime Juice - Whole, Raw, Medium",
+    "unit": "lime",
+    "k": 60, "c": 20, "p": 1, "s": 5, "f": 1
+  },
+
+  "lobster_bisque": {
+    "desc": "Lobster Bisque",
+    "inc": 0.5,
+    "count": [2.0],
+    "unit": "cup",
+    "k": 270, "c": 19, "g": 16, "p": 12, "s": 800, "f": 1
+  },
+
+  "mashed_potatoes": {
+    "desc": "Mashed Potatoes",
+    "inc": 0.5,
+    "count": [2.0, 100],
+    "unit": "g",
+    "k": 122, "c": 12, "g": 2, "p": 2, "s": 30, "f": 1
+  },
+
+  "meatball_sandwich_subway": {
+    "desc": "Meatball Sandwich (Subway)",
+    "count": 6,
+    "unit": "inches",
+    "k": 480, "c": 59, "g": 18, "p": 21, "s": 920, "f": 8
+  },
+
+  "meatballs_with_sauce": {
+    "desc": "Meatballs with Sauce",
+    "count": 0.5,
+    "unit": "cup",
+    "k": 270, "g": 15, "p": 16, "s": 38
+  },
+
+  "ministroni_soup": {
+    "desc": "Ministroni Soup",
+    "inc": 0.1666,
+    "count": [6.0, 6],
+    "unit": "oz",
+    "k": 45, "c": 9, "p": 2, "s": 743, "f": 1
+  },
+
+  "moms_rice": {
+    "desc": "White Rice - Mom's Style",
+    "inc": 0.5,
+    "count": [2.0],
+    "unit": "cup",
+    "ingredients": ["canola_oil", "raw_white_rice", "salt_by_the_pinch"]
+  },
+
+  "olive_oil": {
+    "desc": "Olive Oil",
+    "unit": "tbsp",
+    "k": 119, "g": 14
+  },
+
+  "orange_juice": {
+    "desc": "Orange Juice",
+    "inc": 0.5,
+    "count": [2.0],
+    "unit": "cup",
+    "k": 111, "c": 25, "p": 1, "s": 2
+  },
+
+  "pan_seared_salmon": {
+    "desc": "Pan-Seared Salmon",
+    "inc": 0.25,
+    "count": 16.0,
+    "unit": "oz",
+    "ingredients": [
+      4.0  , "pan_seared_salmon_bare",
+      0.333, "olive_oil",
+      1.0  , "butter",
+      1.0  , "salt_by_the_pinch",
+      0.333, "black_pepper",
+      1.0  , "lime_juice"
+    ]
+  },
+
+  "pan_seared_salmon_bare": {
+    "desc": "Pan-Seared Salmon - Bare",
+    "count": 4.0,
+    "unit": "oz",
+    "k": 270, "g": 19, "p": 24, "s": 200
+  },
+
+  "raw_white_rice": {
+    "desc": "White Rice - Raw",
+    "inc": 0.5,
+    "count": [2.0],
+    "unit": "cup",
+    "k": 190, "c": 43, "p": 4
+  },
+
+  "red_wine_vinegar": {
+    "desc": "Red Wine Vinegar",
+    "unit": "tsp",
+    "k": 5, "s": 2
+  },
+
+  "salt_by_the_dash": {
+    "desc": "Salt",
+    "inc": 33.0,
+    "count": 0.3,
+    "unit": "dash",
+    "s": 39
+  },
+
+  "salt_by_the_pinch": {
+    "desc": "Salt",
+    "unit": "pinch",
+    "ingredients": [3.75, "salt_by_the_dash"]
+  },
+
+  "salt_by_the_tsp": {
+    "desc": "Salt",
+    "unit": "tsp",
+    "ingredients": [15.125, "salt_by_the_dash"]
+  },
+
+  "smoked_porkchop": {
+    "desc": "Smoked Porkchop",
+    "inc": 0.25,
+    "count": [4.0, 4],
+    "unit": "oz",
+    "k": 140, "c": 2, "g": 5, "p": 20, "s": 520
+  },
+
+  "tomato_soup_progresso": {
+    "desc": "Tomato Soup (Progresso)",
+    "inc": 0.25,
+    "count": [2.0, 2],
+    "unit": "cup",
+    "k": 300, "c": 58, "g": 6, "p": 6, "s": 1360, "f": 4
+  },
+
+  "tuna_salad_with_mayonnaise": {
+    "desc": "Tuna Salad With Mayonnaise",
+    "inc": 0.25,
+    "count": [2.0],
+    "unit": "cup",
+    "k": 383, "c": 14, "g": 22, "p": 29, "s": 807
+  },
+
+  "v8_juice_low_sodium": {
+    "desc": "V8 Vegetable Juice - Low Sodium",
+    "count": 5.5,
+    "unit": "oz",
+    "k": 30, "c": 7, "p": 1, "s": 95, "f": 1
+  },
+
+  "virginia_ham": {
+    "desc": "Virginia Ham",
+    "inc": 0.01,
+    "count": [10.0, 100],
+    "unit": "g",
+    "k": 80, "c": 2, "p": 16, "s": 1170, "f": 1
+  },
+
+  "waffle": {
+    "desc": "Waffles with Syrup & Butter",
+    "inc": 0.5,
+    "count": [2.0, 2.0],
+    "unit": "waffle",
+    "k": 446, "g": 19, "s": 917
+  },
+
+  "wheat_french_baguette": {
+    "desc": "French Baguette - Wheat",
+    "inc": 0.25,
+    "count": 100.0,
+    "unit": "g",
+    "k": 226, "c": 56, "p": 8, "s": 640
+  },
+
+  "whiting_fish": {
+    "desc": "Whiting Fish",
+    "inc": 0.5,
+    "count": [2.0, 100],
+    "unit": "g",
+    "k": 88, "p": 20
+  },
+
+  "yogourt": {
+    "desc": "Yogourt",
+    "unit": "cup",
+    "k": 150, "c": 26, "g": 3, "p": 5, "s": 80
+  }
+
+}

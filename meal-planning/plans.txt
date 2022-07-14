@@ -1,0 +1,64 @@
+( 4)   4.0 apple Apple - Large            K  460.0 C  120.0 G    0.0 P    0.0 S    8.0 F   20.0
+( 1)   1.0 cup Chicken Caesar Salad       K  230.0 C    8.0 G   16.0 P   16.0 S  980.0 F    1.0
+( 9)   9.0 oz Coffee with Cream and Sugar K   63.0 C    0.0 G    3.1 P    0.0 S    0.0 F    0.0
+( 7)   7.0 oz Flank Steak                 K  315.0 C    0.0 G   15.8 P   42.0 S  105.0 F    0.0
+( 1)   0.5 cup Granola                    K  210.0 C   33.5 G    8.0 P    6.5 S    4.0 F    4.0
+( 2)   1.0 cup Grilled Broccoli           K   31.0 C    6.0 G    0.0 P    2.0 S   30.0 F    2.0
+( 1)   1.0 egg Fried Egg                  K  196.0 C    0.0 G   14.0 P   13.0 S  207.0 F    0.0
+( 7)   7.0 oz Smoked Porkchop             K  245.0 C    3.5 G    8.8 P   35.0 S  910.0 F    0.0
+( 3)   1.5 cup Tomato Soup (Progresso)    K  225.0 C   43.5 G    4.5 P    4.5 S 1020.0 F    3.0
+( 5) 250.0 g Whiting Fish                 K  220.0 C    0.0 G    0.0 P   50.0 S    0.0 F    0.0
+
+TOTAL                                     K 2195.0 C  214.5 G   70.2 P  169.0 S 3264.0 F   30.0
+TARGETS                                   K 2127.0 C  223.0 G   74.0 P  167.0 S 3000.0 F   35.0
+
+FITNESS 0.3982476027500081
+
+( 2)   1.0 cup Clam Chowder (Progresso)   K  180.0 C   20.0 G    8.0 P    6.0 S  890.0 F    1.0
+( 2)   2.0 cup Cuban Black Beans and Rice K  368.0 C   71.0 G    5.0 P   14.0 S  110.0 F   11.0
+( 1)   1.0 bar Fit Crunch Bar             K  380.0 C   27.0 G   16.0 P   30.0 S  490.0 F    2.0
+( 3) 151.2 g French Fries                 K  216.0 C   36.0 G    7.2 P    3.6 S    0.0 F    3.6
+( 2)   1.0 cup Grilled Broccoli           K   31.0 C    6.0 G    0.0 P    2.0 S   30.0 F    2.0
+( 1)   1.0 banana Large Banana            K  121.0 C   31.0 G    0.0 P    1.0 S    1.0 F    3.0
+( 1)   1.0 egg Fried Egg                  K  196.0 C    0.0 G   14.0 P   13.0 S  207.0 F    0.0
+( 4)   4.0 oz Smoked Porkchop             K  140.0 C    2.0 G    5.0 P   20.0 S  520.0 F    0.0
+( 3)   1.5 cup Tomato Soup (Progresso)    K  225.0 C   43.5 G    4.5 P    4.5 S 1020.0 F    3.0
+( 7) 350.0 g Whiting Fish                 K  308.0 C    0.0 G    0.0 P   70.0 S    0.0 F    0.0
+
+TOTAL                                     K 2165.0 C  236.5 G   59.7 P  164.1 S 3268.0 F   25.6
+TARGETS                                   K 2127.0 C  223.0 G   74.0 P  167.0 S 3000.0 F   35.0
+
+FITNESS 0.6612225897725151
+
+( 1)   1.0 apple Apple - Large            K  115.0 C   30.0 G    0.0 P    0.0 S    2.0 F    5.0
+( 1)   1.0 cup Chicken Caesar Salad       K  230.0 C    8.0 G   16.0 P   16.0 S  980.0 F    1.0
+( 2)   1.0 cup Chicken Soup               K  180.0 C    5.0 G    2.0 P   10.0 S  492.0 F    1.0
+( 3)   3.0 cup Cuban Black Beans and Rice K  552.0 C  106.5 G    7.5 P   21.0 S  165.0 F   16.5
+( 8)   8.0 oz Flank Steak                 K  360.0 C    0.0 G   18.0 P   48.0 S  120.0 F    0.0
+( 1)   1.0 bar Fit Crunch Bar             K  380.0 C   27.0 G   16.0 P   30.0 S  490.0 F    2.0
+( 1)   1.0 cup Grapes - Green             K   62.0 C   15.0 G    0.0 P    0.0 S    2.0 F    0.0
+( 1)   1.0 banana Large Banana            K  121.0 C   31.0 G    0.0 P    1.0 S    1.0 F    3.0
+( 3)   0.8 cup Tuna Salad With Mayonnaise K  287.2 C   10.5 G   16.5 P   21.8 S  605.2 F    0.0
+(10)  10.0 g Virginia Ham                 K    8.0 C    0.2 G    0.0 P    1.6 S  117.0 F    0.1
+
+TOTAL                                     K 2295.2 C  233.2 G   76.0 P  149.3 S 2974.2 F   28.6
+TARGETS                                   K 2127.0 C  223.0 G   74.0 P  167.0 S 3000.0 F   35.0
+
+FITNESS 0.9921040255968642
+
+(10) 100.0 g Baked Red Potatoes           K   89.0 C   20.0 G    0.0 P    2.0 S    8.0 F    1.0
+( 2)   1.0 cup Broccoli and Cheddar Soup  K  279.0 C   11.0 G   20.0 P   11.0 S  739.0 F    1.0
+( 1)   1.0 cookie Cookies (Subway)        K  210.0 C   30.0 G   10.0 P    2.0 S  130.0 F    1.0
+( 1)   1.0 bar Fit Crunch Bar             K  380.0 C   27.0 G   16.0 P   30.0 S  490.0 F    2.0
+( 2)   1.0 cup Lobster Bisque             K  270.0 C   19.0 G   16.0 P   12.0 S  800.0 F    1.0
+( 2) 100.0 g Mashed Potatoes              K  122.0 C   12.0 G    2.0 P    2.0 S   30.0 F    1.0
+( 1)   0.5 cup Meatballs with Sauce       K  270.0 C    0.0 G   15.0 P   16.0 S   38.0 F    0.0
+( 2)   1.0 cup Orange Juice               K  111.0 C   25.0 G    0.0 P    1.0 S    2.0 F    0.0
+( 9) 450.0 g Whiting Fish                 K  396.0 C    0.0 G    0.0 P   90.0 S    0.0 F    0.0
+( 1)   1.0 cup Yogourt                    K  150.0 C   26.0 G    3.0 P    5.0 S   80.0 F    0.0
+
+TOTAL                                     K 2277.0 C  170.0 G   82.0 P  171.0 S 2317.0 F    7.0
+TARGETS                                   K 2127.0 C  223.0 G   74.0 P  167.0 S 3000.0 F   35.0
+
+FITNESS 1.8944392829280157
+
